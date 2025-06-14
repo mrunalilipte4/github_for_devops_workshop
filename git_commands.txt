@@ -1,0 +1,16 @@
+git status
+git rm --cached tesing.py
+git status
+git add .
+git status
+git commit -m "added testing files"
+git status
+rm tesing.py
+ls
+git status
+git restore tesing.py
+git status
+git clone https://github.com/mrunalilipte4/github_for_devops_workshop.git
+git remote add origin 
+git remote -v
+git status
