@@ -14,6 +14,10 @@ git clone https://github.com/mrunalilipte4/github_for_devops_workshop.git
 git remote add origin 
 git remote -v
 git status
+<<<<<<< HEAD
+ 
+=======
 
 commands for github 
 come back
+>>>>>>> 4b83e3c66b2077ad4b0de371a954aa4daff1c9df
